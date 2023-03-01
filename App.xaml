@@ -1,0 +1,9 @@
+﻿<Application x:Class="Aplicación_Gestión_Club.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Aplicación_Gestión_Club"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <FontFamily x:Key="OpenSans">/Aplicación Gestión Club;component/Fuentes/OpenSans-ExtraBoldItalic.ttf#Open Sans SemiCondensed ExtraBold</FontFamily>
+    </Application.Resources>
+</Application>
